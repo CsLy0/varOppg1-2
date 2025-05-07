@@ -5,5 +5,5 @@ Console.WriteLine($"a = {inputInt}");
 var inputDecimal = 3.01;
 Console.WriteLine($"b = {inputDecimal}");
 
-var inputSum = 8.01;
+double inputSum = 8.01; //eller bruke var?
 Console.WriteLine($"sum ({inputSum}) = {inputInt} + {inputDecimal}");
